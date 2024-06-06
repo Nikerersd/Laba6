@@ -1,0 +1,15 @@
+C:\Users\nikru\OneDrive\Desktop\LabaRudk\Laba6\1Task1P#\bin\Debug\net8.0\1Task1P#.exe
+C:\Users\nikru\OneDrive\Desktop\LabaRudk\Laba6\1Task1P#\bin\Debug\net8.0\1Task1P#.deps.json
+C:\Users\nikru\OneDrive\Desktop\LabaRudk\Laba6\1Task1P#\bin\Debug\net8.0\1Task1P#.runtimeconfig.json
+C:\Users\nikru\OneDrive\Desktop\LabaRudk\Laba6\1Task1P#\bin\Debug\net8.0\1Task1P#.dll
+C:\Users\nikru\OneDrive\Desktop\LabaRudk\Laba6\1Task1P#\bin\Debug\net8.0\1Task1P#.pdb
+C:\Users\nikru\OneDrive\Desktop\LabaRudk\Laba6\1Task1P#\obj\Debug\net8.0\1Task1P#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikru\OneDrive\Desktop\LabaRudk\Laba6\1Task1P#\obj\Debug\net8.0\1Task1P#.AssemblyInfoInputs.cache
+C:\Users\nikru\OneDrive\Desktop\LabaRudk\Laba6\1Task1P#\obj\Debug\net8.0\1Task1P#.AssemblyInfo.cs
+C:\Users\nikru\OneDrive\Desktop\LabaRudk\Laba6\1Task1P#\obj\Debug\net8.0\1Task1P#.csproj.CoreCompileInputs.cache
+C:\Users\nikru\OneDrive\Desktop\LabaRudk\Laba6\1Task1P#\obj\Debug\net8.0\1Task1P#.sourcelink.json
+C:\Users\nikru\OneDrive\Desktop\LabaRudk\Laba6\1Task1P#\obj\Debug\net8.0\1Task1P#.dll
+C:\Users\nikru\OneDrive\Desktop\LabaRudk\Laba6\1Task1P#\obj\Debug\net8.0\refint\1Task1P#.dll
+C:\Users\nikru\OneDrive\Desktop\LabaRudk\Laba6\1Task1P#\obj\Debug\net8.0\1Task1P#.pdb
+C:\Users\nikru\OneDrive\Desktop\LabaRudk\Laba6\1Task1P#\obj\Debug\net8.0\1Task1P#.genruntimeconfig.cache
+C:\Users\nikru\OneDrive\Desktop\LabaRudk\Laba6\1Task1P#\obj\Debug\net8.0\ref\1Task1P#.dll
